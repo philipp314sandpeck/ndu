@@ -1,0 +1,4 @@
+unzip skript-ereader-repo.zip
+cd repo
+git remote add origin <your-github-repo-url>
+git push -u origin main
